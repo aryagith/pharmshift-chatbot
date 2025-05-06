@@ -198,7 +198,7 @@ if __name__ == "__main__":
                         # PyMuPDFLoader provides 'source' (full path) and 'page_number' (0-indexed)
                         # We also added 'source_document' (basename)
                         source_doc_name = doc.metadata.get('source_document', os.path.basename(doc.metadata.get('source', 'Unknown Document')))
-                        page_num_0_indexed = doc.metadata.get('page_number', -1) # MODIFIED: Get 'page_number'
+                        page_num_0_indexed = doc.metadata.get('page', -1) # MODIFIED: Get 'page_number'
                         page_num_display = page_num_0_indexed + 1 if page_num_0_indexed != -1 else 'N/A' # MODIFIED: Adjust for display
 
                         print(f"--- Source {i+1} (File: {source_doc_name}, Page: {page_num_display}) ---")
