@@ -1,0 +1,139 @@
+--- PDF Text Extraction Comparison ---
+Source PDF: my_document.pdf
+Page Compared: 6
+Timestamp: 2025-05-06 13:37:54
+======================================================================
+
+--- Method: pypdfloader ---
+Pharmagate®
+TheKnowHowforSuccesspharmagate2014@gmail.com
+TriptanTherapy
+-Itisquiteselective(vascular)andabortivetherapyformigraine(acuteattack).
+-Triptanscouldbetakenatanytimeduringamigraineheadache,buttakingitASAPis
+best;i.e.,theclosesttoheadache,thebetter.
+-Triptansareselective5HT-1b,d,freceptoragonists.
+-Triptansworkalsoforclusterheadaches.
+-The7Canadiantriptansare:
+XAlmotriptan,Axert12.5mgtablets
+XEletriptan,Relpax40mgtablets
+Frovatriptan,Frova2.5mgtablets
+XNaratriptan,Amerge2.5mgtablets
+Rizatriptan,Maxalt10mgtabletandRPD10mgorallydissolvingtablet
+XSumatriptan,Imitrex50mgand100mgtablets;injection6mginjection;nasalspray20
+mgnasalspray
+ZZolmitriptan,Zomig2.5mgtablet;rapimelt2.5mgorallydissolvingtablet;5mgnasal
+spray
+-OnsetofAction:
+oFastestonset(5min)=SCsumatriptan
+oNasalspraysumatriptan&zolmitriptankicksinin15min(1sp/1nostril;NOpriming;
+NOshaking).
+oALLotherforms,includingwafers,kickinin20-30min,astheyareORALdosage
+forms&NOTbuccallyabsorbed.
+-Orallydisintegratingformsprovidea“plus”formigraineurswithN/Vordifficulty
+swallowingpills.
+-Recurrenceofmigraineheadachesiscommonaftertheyarerelievedbytriptans.
+-NEVERrepeatatriptanforthesameoriginalheadache;i.e.,ifNOTrelieved,ATLEAST
+partially,useanothermedication;e.g.,NSAID(NOTDHE)
+-Mayrepeattriptanin2hforrecurringsymptoms/newheadache(NOTpainof1stattack)
+-DoNOTuse2differenttriptansinthesame24-hperiod
+-Forsumatriptaninjection:Ifthemigraineheadachereturns,orifapatienthasapartial
+responsetotheinitialdose,thedosemayberepeatedafter1hour,andNOTmorethan
+12mg[2injections]shouldbetakeninany24-hperiod.
+-Forotheroraldosageforms,thedosemayonlyberepeatedforrecurringorpartially
+relievedheadachesafter2hoursfromthefirstoraldose.
+-Triptansshouldbeavoidedwithin2weeksoftheuseofaMAOinhibitor(selective
+MAO-AI:moclobemide;non-selectiveMAOIs:phenelzineandtranylcypromine;MAO-B
+Israsagiline,andselegiline)whichmaydecreasethemetabolismofserotonin5-HT1D
+receptoragonists.
+-CautionwithtriptansandsulfaallergyEXCEPTrizatriptan,zolmitriptan,andfrovatriptan
+(NOsulfagroup).
+-CautionwithSS(SSRIs,TCAs,Li,etc.)
+-Cautionwithtriptanoveruseheadache(seebelow)
+DISCLAIMER:Thesereviewsareupdatedcontinuously
+Copyingorsharingofanypartofthesehandoutnotes®isconsideredaninfringementofthecopyrightlawofCanadathatprotectsthe
+rightoftheauthors/ownersofthisworkInfringementoftheCopyrightActcanleadtocivilandcriminalconsequences
+7
+======================================================================
+
+--- Method: pymupdf ---
+Pharmagate®
+The KnowHow for Success
+pharmagate2014@gmail.com
+Triptan Therapy
+-
+It is quite selective (vascular) and abortive therapy for migraine (acute attack).
+-
+Triptans could be taken at any time during a migraine headache, but taking it ASAP is
+best; i.e., the closest to headache, the better.
+-
+Triptans are selective 5HT-1b,d,f receptor agonists.
+-
+Triptans work also for cluster headaches.
+-
+The 7 Canadian triptans are:
+X Almotriptan, Axert 12.5 mg tablets
+X Eletriptan, Relpax40 mg tablets
+Frovatriptan, Frova 2.5 mg tablets
+X Naratriptan, Amerge 2.5 mg tablets
+Rizatriptan, Maxalt 10 mg tablet and RPD 10 mg orally dissolving tablet
+X Sumatriptan, Imitrex 50 mg and 100 mg tablets; injection 6 mg injection; nasal spray 20
+mg nasal spray
+Z Zolmitriptan, Zomig 2.5 mg tablet; rapimelt 2.5 mg orally dissolving tablet; 5 mg nasal
+spray
+-
+Onset of Action:
+o Fastest onset (5 min) = SC sumatriptan
+o Nasal spray sumatriptan & zolmitriptan kicks in in 15 min (1sp/1nostril; NO priming;
+NO shaking).
+o ALL other forms, including wafers, kick in in 20-30 min, as they are ORAL dosage
+forms & NOT buccally absorbed.
+-
+Orally disintegrating forms provide a “plus” for migraineurs with N/V or difficulty
+swallowing pills.
+-
+Recurrence of migraine headaches is common after they are relieved by triptans.
+-
+NEVER repeat a triptan for the same original headache; i.e., if NOT relieved, AT LEAST
+partially, use another medication; e.g., NSAID (NOT DHE)
+-
+May repeat triptan in 2 h for recurring symptoms/new headache (NOT pain of 1st attack)
+-
+Do NOT use 2 different triptans in the same 24-h period
+-
+For sumatriptan injection: If the migraine headache returns, or if a patient has a partial
+response to the initial dose, the dose may be repeated after 1 hour, and NOT more than
+12 mg [2 injections] should be taken in any 24-h period.
+-
+For other oral dosage forms, the dose may only be repeated for recurring or partially
+relieved headaches after 2 hours from the first oral dose.
+-
+Triptans should be avoided within 2 weeks of the use of a MAO inhibitor (selective
+MAO-A I: moclobemide; non-selective MAO Is: phenelzine and tranylcypromine; MAO-B
+Is rasagiline, and selegiline) which may decrease the metabolism of serotonin 5-HT1D
+receptor agonists.
+-
+Caution with triptans and sulfa allergy EXCEPT rizatriptan, zolmitriptan, and frovatriptan
+(NO sulfa group).
+-
+Caution with SS (SSRIs, TCAs, Li, etc.)
+-
+Caution with triptan overuse headache (see below)
+DISCLAIMER: These reviews are updated continuously
+Copying or sharing of any part of these handout notes® is considered an infringement of the copyright law of Canada that protects the
+right of the authors/owners of this work Infringement of the Copyright Act can lead to civil and criminal consequences
+7
+
+======================================================================
+
+--- Method: pdfminer ---
+[pdfminer.six high-level extract_text does not isolate page 6. Full document text is in its 'page 1' output.]
+======================================================================
+
+--- Method: ocrmypdf ---
+[No text extracted or error occurred with ocrmypdf]
+======================================================================
+
+--- Method: pytesseract ---
+[No text extracted or error occurred with pytesseract]
+======================================================================
+
